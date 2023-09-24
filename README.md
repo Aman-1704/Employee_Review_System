@@ -16,7 +16,6 @@
     </ul>
 
 <h2>Features</h2>
-
     <ul>
       <li>Create and manage employee profiles</li>
       <li>Track employee performance</li>
@@ -39,8 +38,10 @@
 </ul>
 <p>After reaching the project directory you have to run the following the command.</p>
 <pre class='language-bash'>
+    
     npm install
     npm start || nodemon index.js
+    
 </pre>
 
 <p>If you want to make an employee as admin then use the secret key : EJS.<p>
