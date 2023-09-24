@@ -37,12 +37,11 @@
     <li>Navigate to Project Directory.</li>
 </ul>
 <p>After reaching the project directory you have to run the following the command.</p>
-<pre class='language-bash'>
+<p>
     
     npm install
     npm start || nodemon index.js
-    
-</pre>
+</p>
 
 <p>If you want to make an employee as admin then use the secret key : EJS.<p>
 <h2>Folder Structure</h2>
