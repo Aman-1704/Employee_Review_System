@@ -88,6 +88,6 @@
     |-->package.json
     
     ````</pre>
-    <hr>
+    
 <h2>Contact Us</h2>
 <p>If you have any questions, please contact us at <a href="mailto:amansingh60046@gmail.com">amansingh60046@gmail.com</a>.</p>
