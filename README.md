@@ -43,7 +43,7 @@
     npm start || nodemon index.js
 </p>
 
-<p>If you want to make an employee as admin then use the secret key : ERS.<p>
+<p>If you want to make an employee as admin then use the secret key : EJS.<p>
 <h2>Folder Structure</h2>
 
 <pre>Employee Review System
